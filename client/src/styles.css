@@ -1,0 +1,16 @@
+* {
+  box-sizing: border-box;
+  font-size: 18px;
+}
+
+.container {
+  display: grid;
+  place-items: center;
+}
+
+.form {
+  display: flex;
+  flex-direction: row;
+  gap: 30px;
+  padding: 50px;
+}
